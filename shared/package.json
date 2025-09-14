@@ -1,0 +1,13 @@
+{
+  "name": "@bori/shared",
+  "version": "1.0.0",
+  "description": "보리와 아이들 공통 타입 및 유틸리티",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
