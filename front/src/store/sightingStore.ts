@@ -1,0 +1,1 @@
+// sightingStore.ts

@@ -1,0 +1,1 @@
+// AIResultCard.tsx

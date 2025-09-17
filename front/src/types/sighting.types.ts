@@ -1,0 +1,1 @@
+// sighting.types.ts

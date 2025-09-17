@@ -1,0 +1,1 @@
+// CatDetailScreen.tsx
