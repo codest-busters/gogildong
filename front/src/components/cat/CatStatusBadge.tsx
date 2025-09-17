@@ -1,0 +1,1 @@
+// CatStatusBadge.tsx
