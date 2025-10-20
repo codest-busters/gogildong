@@ -1,1 +1,0 @@
-// SightingItem.tsx

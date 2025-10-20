@@ -1,1 +1,0 @@
-// DiaryDetailCard.tsx
