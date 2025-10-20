@@ -1,1 +1,0 @@
-// AddCatScreen.tsx

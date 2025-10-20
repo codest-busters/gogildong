@@ -1,1 +1,0 @@
-// SightingList.tsx

@@ -1,1 +1,0 @@
-// SimilarityList.tsx

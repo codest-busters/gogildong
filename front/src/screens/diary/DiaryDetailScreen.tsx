@@ -1,1 +1,0 @@
-// DiaryDetailScreen.tsx
