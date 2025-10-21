@@ -1,7 +1,6 @@
-import { Text, View } from "react-native";
-//View : 전체를 감싸는 컨테이너
-//Text : 글자를 표시하는 컴포넌트
-//style : 스타일을 지정하는 속성
+import { Button, View } from "react-native";
+import { Link } from "expo-router";
+
 export default function Index() {
   return (
     <View
@@ -11,7 +10,9 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Hello - Gogildong</Text>
+      <Link href="/login" asChild>
+        <Button title="Go to Login" />
+      </Link>
     </View>
   );
 }
